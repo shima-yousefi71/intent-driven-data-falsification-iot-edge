@@ -55,6 +55,25 @@ attack-model/
 experiments/
 results/
 figures/
+## Experimental Results
+
+### Drone Energy Behavior Under Selfish Intent Attack
+
+(a) Real vs reported battery level for the compromised drone
+
+![Real vs Reported](figures/fig2a_real_vs_reported_energy.jpg)
+
+(b) Battery level comparison under attack vs no attack
+
+![Attack vs No Attack](figures/fig2b_attack_vs_noattack_compromised.jpg)
+
+(c) Battery drain comparison for compromised vs non-compromised drone
+
+![Battery Drain](figures/fig2c_battery_drain_compromised_vs_normal.pdf)
+
+(d) Energy consumption of drones during attack
+
+![Energy Consumption](figures/fig2d_energy_consumption_drones.jpg)
 
 ## Citation
 
