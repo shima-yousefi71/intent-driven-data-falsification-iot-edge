@@ -44,4 +44,20 @@ The attack model is evaluated using **testbed-in-the-loop simulations** involvin
 - simulated drone energy models
 
 ## Repository Structure
+simulation/
+attack-model/
+experiments/
+results/
+figures/
 
+## Paper
+
+(You can upload the PDF of your paper here)
+
+## Citation
+
+If you use this work, please cite:
+
+Yousefi, S., Bhattacharjee, S., Debroy, S.  
+Intent-driven Data Falsification Attack on Collaborative IoT-Edge Environments  
+IEEE/ACM SEC 2024.
