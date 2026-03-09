@@ -42,6 +42,12 @@ The attack model is evaluated using **testbed-in-the-loop simulations** involvin
 - NVIDIA Jetson TX2 devices as IoT nodes
 - Edge server controller
 - simulated drone energy models
+## Paper
+
+Intent-driven Data Falsification Attack on Collaborative IoT-Edge Environments  
+IEEE/ACM Symposium on Edge Computing (SEC), 2024
+
+Paper link: https://ieeexplore.ieee.org/abstract/document/10818017
 
 ## Repository Structure
 simulation/
