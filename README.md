@@ -93,8 +93,10 @@ As the falsified energy deviation increases, the attacker reaches the break-even
 
 The following result illustrates how falsified energy reports influence the behavior of the collaborative IoT-edge system.
 
-![System Impact](figures/fig6a.png)
-
+![System Impact](figures/6a_Deadline_delta_homogeneous.png)
+![System Impact](figures/6b_Deadline_delta_Model_Hetrogeneous.png)
+![System Impact](figures/6c_Deadline_delta_Drone_Hetrogeneous.jpg)
+![System Impact](figures/6d_Deadline_delta_complete_Hetrogeneous.jpg)
 ## Citation
 
 If you use this work, please cite:
