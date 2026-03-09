@@ -75,6 +75,29 @@ figures/
 
 ![Energy Consumption](figures/fig2d_energy_consumption_drones.jpg)
 
+
+### Break-even Time vs Attack Intensity (Fig. 4)
+
+The figure below shows the break-even time of the attack as a function of the attack intensity (Δavg).  
+As the falsified energy deviation increases, the attacker reaches the break-even point faster.
+
+![Break-even Time](figures/fig4a_break_even_homogeneous.png)
+
+![Break-even Time](figures/fig4b_break_even_model_heterogeneous.png)
+
+![Break-even Time](figures/fig4c_break_even_drone_heterogeneous.png)
+
+![Break-even Time](figures/fig4d_break_even_all_heterogeneous.png)
+
+
+---
+
+### Impact of Attack on System Behavior (Fig. 6)
+
+The following result illustrates how falsified energy reports influence the behavior of the collaborative IoT-edge system.
+
+![System Impact](figures/fig6a.png)
+
 ## Citation
 
 If you use this work, please cite:
