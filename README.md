@@ -50,10 +50,6 @@ experiments/
 results/
 figures/
 
-## Paper
-
-(You can upload the PDF of your paper here)
-
 ## Citation
 
 If you use this work, please cite:
