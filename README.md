@@ -81,13 +81,10 @@ figures/
 The figure below shows the break-even time of the attack as a function of the attack intensity (Δavg).  
 As the falsified energy deviation increases, the attacker reaches the break-even point faster.
 
-![Break-even Time](figures/4a_break_even_homogeneous.png)
-
-![Break-even Time](figures/4b_break_even_model_heterogeneous.png)
-
-![Break-even Time](figures/4c_break_even_drone_heterogeneous.png)
-
-![Break-even Time](figures/4d_break_even_all_heterogeneous.png)
+![Break-even Time](figures/4a_BET_8devices_homogeneuos.png)
+![Break-even Time](figures/4b_BET_delta_8devices_ModelHetrogeneuos.png)
+![Break-even Time](figures/4c_BET_delta_8devices_DronesHetrogeneuos.png)
+![Break-even Time](figures/4d_BET_delta_8devices_AllHetrogeneuos.png)
 
 
 ---
