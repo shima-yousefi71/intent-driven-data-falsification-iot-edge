@@ -55,6 +55,7 @@ attack-model/
 experiments/
 results/
 figures/
+<!--
 ## Experimental Results
 
 ### Drone Energy Behavior Under Selfish Intent Attack
@@ -97,6 +98,7 @@ The following result illustrates how falsified energy reports influence the beha
 ![System Impact](figures/6b_Deadline_delta_Model_Hetrogeneous.png)
 ![System Impact](figures/6c_Deadline_delta_Drone_Hetrogeneous.jpg)
 ![System Impact](figures/6d_Deadline_delta_complete_Hetrogeneous.jpg)
+-->
 ## Citation
 
 If you use this work, please cite:
