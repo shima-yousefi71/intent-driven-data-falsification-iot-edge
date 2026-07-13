@@ -24,7 +24,7 @@ from Controller import Controller
 RANDOM_SEED = 10
 DEVICE_TOTAL = 4
 TOTAL_PARTITIONS = 30
-MAX_ITERATIONS = 5
+MAX_ITERATIONS = 200
 ID_LENGTH = 13
 RESULTS_DIR = Path("results")
 
