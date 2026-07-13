@@ -1,6 +1,6 @@
 # Intent-driven Data Falsification Attack on Collaborative IoT-Edge Environments
 
-This repository contains the implementation and experimental artifacts accompanying the paper:
+This repository contains the implementation accompanying the paper:
 
 > **Intent-driven Data Falsification Attack on Collaborative IoT-Edge Environments**
 
@@ -86,23 +86,23 @@ These additional experimental configurations are not included in the current cod
 │   ├── random_devices.py
 │   └── Remotrstage.py
 │
-├── experiments/
-│
 ├── figures/
 │
-├── results/
-│
-└── README.md
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ### Directory Description
 
-| Folder | Description |
-|---------|-------------|
+| File/Folder | Description |
+|-------------|-------------|
 | **code/** | Source code for the collaborative IoT-edge simulator |
-| **experiments/** | Experiment configurations |
-| **figures/** | Figures presented in the paper |
-| **results/** | Generated CSV and Excel output files |
+| **figures/** | Figures presented in the accompanying paper |
+| **README.md** | Project overview and usage instructions |
+| **requirements.txt** | Python package dependencies |
+| **LICENSE** | Repository license information |
 
 ---
 
@@ -138,6 +138,7 @@ The simulator performs the following steps:
 8. Records battery level, power consumption, execution time, and attack statistics.
 
 ---
+
 ## Expected Output
 
 During execution, the simulator reports:
@@ -148,9 +149,10 @@ During execution, the simulator reports:
 - Resource allocation decisions
 - Attack-related information for the compromised device
 
-After the simulation completes, the generated CSV and Excel files are stored in the `results/` directory for further analysis and visualization.
+The simulation also generates CSV and Excel output files containing energy consumption, battery history, execution time, and attack statistics. These files are created automatically during execution for further analysis.
 
 ---
+
 ## Attack Configuration
 
 The current implementation performs the attack on **Device 1 (`Shima1`)**.
@@ -187,7 +189,7 @@ Changing these values allows researchers to reproduce additional attack scenario
 
 ## Generated Results
 
-Each simulation produces:
+Each simulation records:
 
 - Reported power consumption
 - Actual power consumption
@@ -198,7 +200,7 @@ Each simulation produces:
 - Injected attack values (Δ)
 - Edge/server partition allocation
 
-The generated CSV and Excel files are automatically stored inside the `results/` directory.
+These outputs are automatically exported as CSV and Excel files for post-processing and visualization.
 
 ---
 
@@ -244,6 +246,4 @@ If you use this repository in your research, please cite:
 
 ## License
 
-This repository is released for academic and research purposes.
-
-For commercial use or questions regarding the implementation, please contact the authors.
+This repository is released under the MIT License. See the `LICENSE` file for details.
