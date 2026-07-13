@@ -140,7 +140,7 @@ The simulator performs the following steps:
 ---
 ## Expected Output
 
-During execution, the simulator prints:
+During execution, the simulator reports:
 
 - Device initialization information
 - Energy consumption statistics
