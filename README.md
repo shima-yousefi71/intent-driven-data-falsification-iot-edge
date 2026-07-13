@@ -138,7 +138,19 @@ The simulator performs the following steps:
 8. Records battery level, power consumption, execution time, and attack statistics.
 
 ---
+## Expected Output
 
+During execution, the simulator prints:
+
+- Device initialization information
+- Energy consumption statistics
+- Battery level updates
+- Resource allocation decisions
+- Attack-related information for the compromised device
+
+After the simulation completes, the generated CSV and Excel files are stored in the `results/` directory for further analysis and visualization.
+
+---
 ## Attack Configuration
 
 The current implementation performs the attack on **Device 1 (`Shima1`)**.
